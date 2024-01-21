@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yDing121)](https://github.com/anuraghazra/github-readme-stats)
+
+* I'm Yilang Ding
+* Reach me at lance.ding@emory.edu
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yDing121&exclude_repo=YOLOv3-Counter-Strike-Global-Offensive,BMTools,ToolBench,yding121.github.io&hide=html&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yDing121/yDing121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
